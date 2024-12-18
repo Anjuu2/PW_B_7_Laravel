@@ -27,12 +27,6 @@
 
 <h2>Bonus yang diambil:</h2>
         <ul>
-            <li><strong>Hosting:</strong>
-                <ul>
-                    <li>Backend: <a href="https://whyyoustillneedtobuydomainthoman.store" target="_blank">https://whyyoustillneedtobuydomainthoman.store</a></li>
-                    <li>Frontend: <a href="https://whyyoustillneedtobuydomainthoman.store" target="_blank">https://whyyoustillneedtobuydomainthoman.store</a></li>
-                </ul>
-            </li>
             <li><strong>Routes API:</strong>
                 <ul>
                     <li>POST /api/register - Register akun</li>
