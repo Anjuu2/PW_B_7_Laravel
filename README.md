@@ -3,7 +3,7 @@
 <h2>Anggota Kelompok:</h2>
         <ul>
             <li>Ri'An (220711842) - Frontend</li>
-            <li>Petrus Juan Pradipta Raindarta (220712039) - Backend & integrasi</li>
+            <li>Petrus Juan Pradipta Raindarta (220712039) - Backend & Support</li>
             <li>F Jonathan Putra Prasetyo (220712048) - Frontend & integrasi</li>
         </ul>
 
