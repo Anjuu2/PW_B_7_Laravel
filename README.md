@@ -42,17 +42,17 @@
                     <li>POST /api/peminjaman/create - Create pembayaran</li>
                     <li>GET /api/peminjaman/show - View peminjaman</li>
                     <li>POST /api/logout - logout akun</li>
-                    <li>POST /api/show - show akun data</li>
+                    <li>GET /api/show - show akun data</li>
                     <li>GET /api/nama - Show akun name yang sedang login</li>
                     <li>GET /api/admin/akun - Show all akun</li>
-                    <li>GET /api/admin/akun/update/{id} - Update akun by id</li>
-                    <li>GET /api/admin/akun/delete/{id} - Delete akun by id</li>
+                    <li>POST /api/admin/akun/update/{id} - Update akun by id</li>
+                    <li>DELETE /api/admin/akun/delete/{id} - Delete akun by id</li>
                     <li>GET /api/admin/deposit - Show all deposit</li>
-                    <li>GET /api/admin/deposit/update/{id} - Update deposit by id</li>
+                    <li>POST /api/admin/deposit/update/{id} - Update deposit by id</li>
                     <li>GET /api/admin/pembayaran - Show all pembayaran</li>
-                    <li>GET /api/admin/pembayaran/update/{id} - Update pembayaran by id</li>
+                    <li>POST /api/admin/pembayaran/update/{id} - Update pembayaran by id</li>
                     <li>GET /api/admin/peminjaman - Show all peminjaman</li>
-                    <li>GET /api/admin/peminjaman/update/{id} - Update peminjaman by id</li>
+                    <li>POST /api/admin/peminjaman/update/{id} - Update peminjaman by id</li>
                 </ul>
             </li>
         </ul>
