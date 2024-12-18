@@ -1,4 +1,4 @@
- <h1>Kelas E Kelompok 18</h1>
+ <h1>Kelas B Kelompok 7</h1>
 
 <h2>Anggota Kelompok:</h2>
         <ul>
